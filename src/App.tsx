@@ -7,6 +7,7 @@ function App() {
     <>
       <Problem1 />
       <ColorList />
+      
     </>
   )
 }
